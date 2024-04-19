@@ -1,14 +1,14 @@
-# DeSerSniffer
+# SerdeSniffer
 
 # Introduction
 
-DeSerSniffer uses taint analysis and flow-sensitive bottom-up summary algorithm to check component deserialization gadget chains detection in effective time.
+SerdeSniffer uses taint analysis and flow-sensitive bottom-up summary algorithm to check component deserialization gadget chains detection in effective time.
 
 ## SetUp(Todo)
 
 ### Docker
 
-The DeSerSniffer Dockerfile provides latest version of doop and souffle. After copying the DeSerSniffer project, use tools/summary-run-scripts/run.sh for analysis.
+The SerdeSniffer Dockerfile provides latest version of doop and souffle. After copying the SerdeSniffer project, use tools/summary-run-scripts/run.sh for analysis.
 
 # 🐞Discovered vulnerabilities
 
